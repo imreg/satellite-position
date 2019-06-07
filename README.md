@@ -1,5 +1,4 @@
-# Avanti Engineer Test
-## International Space Station
+# International Space Station
 
 The task was resolved in Simfony 4 framework
 
